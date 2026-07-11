@@ -137,3 +137,8 @@ Apasionado por el análisis de datos, automatización y estrategia de retención
 ---
 
 
+
+> Actualización de prueba para practicar flujo de PR con n8n.
+
+## Dashboard desarrolladores MxXSKwAW
+Actualizacion para ejercicio de Pull Request.
