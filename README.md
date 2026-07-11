@@ -142,3 +142,5 @@ Apasionado por el análisis de datos, automatización y estrategia de retención
 
 ## Dashboard desarrolladores MxXSKwAW
 Actualizacion para ejercicio de Pull Request.
+
+PR ejercicio MxXSKwAW v2
